@@ -13,3 +13,4 @@ You need to edit the code in order to add your own emojis. First, upload the pic
 - Disallow emojis from rendering from other user's quotes
 - (probably impossible because of the way aops does images...) make the emoji size consistent between feed view and forum view
 - Make it easier to upload your own emojis
+- Sometimes emojis won't work at all if the page loads incorrectly and the code can't inject its custom functions in time. dunno how to fix, it's impossible, right?
