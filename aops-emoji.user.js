@@ -15,6 +15,7 @@
 	var emojiList = [
 		[":blobheart:", "/1/f/9d9d9a051c3c5b47d922c8f5591b97f8f20e0b.png"],
 		[":wiltedRose:", "/d/8/8d36f5017b76884c75206a49add6e94170a29b.png"],
+		[":thonk:", "/f/8/7e06cd6e4677112ab8073117c757989e7ab6da.png"],
 		[":33:", "/5/a/044a70d93ceb966ed0d55dac9ab3b2afc2143a.png"],
 		[":cate:", "/f/6/3ee343dff489684abe46da31e4b0000309ca68.png"],
 		[":bat:", "/2/7/74e6002f4882e07a3a71a88164724ee8b33120.png"],
@@ -218,3 +219,4 @@
 		//
 	}
 })();
+
