@@ -1,5 +1,5 @@
 # AoPS Custom Emojis
-A userscript that allows you to add your own emojis and use them in posts, Discord-style.
+A userscript that allows you to add your own emojis and use them in posts.
 
 First, download [tampermonkey](https://www.tampermonkey.net/), Then click [here](aops-emoji.user.js?raw=1) to download.
 
