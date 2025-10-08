@@ -24,6 +24,7 @@
 		[":cadenceFlomp:", "/0/c/1934d75fef48b30c3d87f49739121d33f33429.png"],
 		[":cadenceDeath:", "/3/4/5db2948cf10299323316f41acb65b5c5babd0c.png"],
 		[":cadenceHype:", "/1/7/71298fc96e5e1d5049460a609c94636cfe3b7b.png"],
+		[":trueda:", "/b/a/6e3f308d2bab577f1e8e9fff650f17b66c9a70.png"],
 		[":nikoCrumbs:", "/d/4/85a1ff95b42a0111097805318dd0771d87d9db.png"],
 		[":mole:", "/b/2/d5963e4bd823435010b7a673d97fadbfb3b6d2.png"],
 		[":slime:", "/d/b/7de08780a029ca39b61ed65c9a7049439ef8ba.png"],
@@ -219,4 +220,5 @@
 		//
 	}
 })();
+
 
