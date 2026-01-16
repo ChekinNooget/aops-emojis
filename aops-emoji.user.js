@@ -28,6 +28,7 @@
 		[":nikoCrumbs:", "/d/4/85a1ff95b42a0111097805318dd0771d87d9db.png"],
 		[":mole:", "/b/2/d5963e4bd823435010b7a673d97fadbfb3b6d2.png"],
 		[":slime:", "/d/b/7de08780a029ca39b61ed65c9a7049439ef8ba.png"],
+		[":lemon:", "/a/3/71bc3fc4fe7f974e9ae878f851c42ce0a1971b.png"],
 	];
 	window.addEventListener("load", loadFunction, false);
 
@@ -220,5 +221,6 @@
 		//
 	}
 })();
+
 
 
